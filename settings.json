@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "schoolsmp-1Ncw.aternos.me",
-    "port": 35331,
+    "port":35331,
     "version": "",
     "try-creative": false
   },
